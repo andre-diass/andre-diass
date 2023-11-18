@@ -1,11 +1,11 @@
-Hi 👋 My name is Andre Dias
-===========================
+<h1 align="center">Hi 👋 My name is André Dias</h1>
+
 
 Eletronics Engineering student at Universidade de Penambuco with experience in robotics and currently working with software development
 
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
-* 🚀  I'm currently working on [Amaztrace](http://https://amaztrace.com.br/)
+* 🔭  I'm currently working on [Amaztrace](http://https://amaztrace.com.br/)
 * 🧠  I'm learning NestJs and Angular
 
 ### Skills
