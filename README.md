@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is André Dias</h1>
 
 
-Eletronics Engineering student at Universidade de Penambuco with experience in robotics and currently working with software development
+Eletronics Engineering student and Software Developer
 
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
