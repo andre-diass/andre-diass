@@ -10,17 +10,17 @@
 
 <h3 align="left">Skills:</h3>
 
-### Languages and tools:
+#### Languages and tools:
 
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,cpp,nodejs)](https://skillicons.dev)
 
-### Back-End
+#### Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,nestjs,express,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
 
-### Front-End
+#### Front-End
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,figma,tailwind)](https://skillicons.dev)
 
-### Cloud and fullstack
+#### Cloud and fullstack
 [![My Skills](https://skillicons.dev/icons?i=nextjs,aws,docker,githubactions,vercel)](https://skillicons.dev)
 
 
