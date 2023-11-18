@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,cpp)](https://skillicons.dev)
 
 #### 🧰 Back-End
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,express,nodejs,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,express,nodejs,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
 
 #### 💻 Front-End
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,figma,tailwind)](https://skillicons.dev)
