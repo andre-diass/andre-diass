@@ -36,7 +36,8 @@
 </details>
 
 
-### 📱Socials
+<details> 
+  <summary><h2>📱 Socials </h2></summary>
 
 <p align="left">
   <a href="https://www.github.com/andre-diass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub Logo"></a>
@@ -44,4 +45,4 @@
   <a href="https://www.instagram.com/andre.diaas_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="32" alt="Instagram Logo"></a>
 </p>
 
-
+</details>
