@@ -28,8 +28,6 @@ Eletronics Engineering student at Universidade de Penambuco with experience in r
 
 <a href="http://www.github.com/andre-diass"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andre-diass&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/andre-diass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-diass&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/andre-diass" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-diass&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/andre-diass/ESP32-alarmSensor-prototype" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andre-diass&repo=ESP32-alarmSensor-prototype&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/andre-diass/store-backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=andre-diass&repo=store-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
