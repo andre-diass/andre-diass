@@ -5,7 +5,7 @@
 
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
-* 🔭  I'm currently working at [Amaztrace](http://https://amaztrace.com.br/)
+* 🔭  I'm currently working at [Amaztrace](https://www.amaztrace.com.br/en)
 * 🧠  I'm learning NestJs and Angular
 
 <h2 align="left"> 🛠️ My Favorite Tools:</h2>
