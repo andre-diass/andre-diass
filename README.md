@@ -6,7 +6,7 @@
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
 * 🔭  I'm currently working at [Amaztrace](https://www.amaztrace.com.br/en)
-* 🧠  I'm learning NestJs and Angular
+* 🧠  I'm learning Angular
 
 <h2 align="left"> 🛠️ My Favorite Tools:</h2>
 
@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,cpp)](https://skillicons.dev)
 
 #### 🧰 Back-End
-[![My Skills](https://skillicons.dev/icons?i=spring,express,nodejs,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs,nodejs,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
 
 #### 💻 Front-End
 [![My Skills](https://skillicons.dev/icons?i=react,css,html,figma,tailwind)](https://skillicons.dev)
