@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is André Dias</h1>
 
 
-<p align="center">Electronics Engineering student at UPE-POLI and Software Developer from Brazil</p>
+<p align="center">Electronics Engineer and Software Developer from Brazil</p>
 
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
