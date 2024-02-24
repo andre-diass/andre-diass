@@ -52,7 +52,7 @@
 • I grew up and was raised in Macapá - AP, and I still miss my favorite dishes 🥹 <br>
 • I'm a hardware geek. Even though my daily coding routine is more directed to high level languages, I still research and work on embedded systems projects <br>
 • I'm a Flamengo fan. Sorry but that's just the best team in the world 😁 <br>
-• I was a Dj for a short while back. Still own a DDJ400 and blast it sometimes. Hip hop and psytrance are among my favorite genres <br>
+• I did some Dj gigs a while back. Still own a DDJ400 and blast it sometimes. Hip hop and psytrance are among my favorite genres <br>
 • I'm a hard fan of a software called TouchDesigner. It's used for modeling 3D objects and making art creations interactive. You can find some of the art work I created on my instagram @andre.diaas_ <br>
 • As a last and not least hobby, I'm a enthusiast of lucid dreaming. If you ever practiced it, please contact me, we have much to talk about 😂
 
