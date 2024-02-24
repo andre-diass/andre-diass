@@ -49,7 +49,7 @@
 
 <details> 
   <summary><h2> 🕶️ Fun facts </h2></summary>
-• I grew up and was raised in Macapá - AP, and I still miss my favorite dishes 🥹 <br>
+• I grew up and was raised in Macapá - AP, and still miss my hometown very much 🥹 <br>
 • I'm a hardware geek. Even though my daily coding routine is more directed to high level languages, I still research and work on embedded systems projects <br>
 • I'm a Flamengo fan. Sorry but that's just the best team in the world 😁 <br>
 • I did some Dj gigs a while back. Still own a DDJ400 and blast it sometimes. Hip hop and psytrance are among my favorite genres <br>
