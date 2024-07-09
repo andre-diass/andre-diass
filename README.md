@@ -12,7 +12,7 @@
 
 #### 👨‍💻Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,c)](https://skillicons.dev)
 
 #### 🧰 Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs,nodejs,mongodb,mysql,postgres,arduino,raspberrypi)](https://skillicons.dev)
