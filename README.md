@@ -6,7 +6,7 @@
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
 * 🔭  I'm currently working at [Mutant](https://mutant.com.br/)
-* 🧠  I'm learning embedded Kubernetes
+* 🧠  I'm learning Kubernetes
 
 <h2 align="left"> 🛠️ My Favorite Tools:</h2>
 
