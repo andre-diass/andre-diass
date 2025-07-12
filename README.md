@@ -6,13 +6,13 @@
 * 🌍  I'm based in Brazil, PE
 * ✉️  You can contact me at [andredsf-1@outlook.com](mailto:andredsf-1@outlook.com)
 * 🔭  I'm currently working at [Mutant](https://mutant.com.br/)
-* 🧠  I'm learning Golang
+* 🧠  I'm learning RAG and fine tuning of AI models
 
 <h2 align="left"> 🛠️ My Favorite Tools:</h2>
 
 #### 👨‍💻Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,c,golang)](https://skillicons.dev)
 
 #### 🧰 Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,express,nestjs,nodejs,mongodb,mysql,postgres,redis,raspberrypi)](https://skillicons.dev)
@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,css,html,figma,tailwind)](https://skillicons.dev)
 
 #### 🗄️ Cloud and fullstack
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,jenkins,vercel)](https://skillicons.dev)
 
 
 <details> 
